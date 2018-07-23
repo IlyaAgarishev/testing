@@ -2,4 +2,4 @@
 
  ![screenshot]()
 
-![gif](https://imgur.com/SGrXJPW)
+![gif](https://i.imgur.com/kJDCeTS.mp4)
