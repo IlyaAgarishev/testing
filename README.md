@@ -2,7 +2,7 @@
 
 Simple mini blog inspired by twitter. Built with React and Redux libraries http://twithor.surge.sh/
 
-![first](https://i.imgur.com/jTkUBQP.png)
+![first](https://i.imgur.com/vykykvk.png)
 
 ![second](https://i.imgur.com/XtinNrL.gif)
 
