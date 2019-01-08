@@ -4,7 +4,7 @@ Simple mini blog inspired by twitter. Built with React and Redux libraries http:
 
 ![first](https://i.imgur.com/vykykvk.png)
 
-![second](https://i.imgur.com/oXCjdcH.png)
+![second](https://i.imgur.com/tDfJdPB.png)
 
 ![third](https://i.imgur.com/YqCR4JP.png)
 
