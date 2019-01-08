@@ -4,11 +4,12 @@ Simple mini blog inspired by twitter. Built with React and Redux libraries http:
 
 ![first](https://i.imgur.com/vykykvk.png)
 
-![second](https://i.imgur.com/XtinNrL.gif)
+![second](https://i.imgur.com/oXCjdcH.png)
 
-![third](https://i.imgur.com/lLZsgli.gif)
+![third](https://i.imgur.com/YqCR4JP.png)
 
-responsive](https://i.imgur.com/Iw33cmA.gif)
+![four](https://i.imgur.com/3UEUpev.png)
+
 
 ### Available npm commands:
 
