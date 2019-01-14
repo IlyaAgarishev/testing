@@ -1,5 +1,7 @@
 # Twithor
 
+Скачайте расширение в интернет-магазине Google Chrome : https://chrome.google.com/webstore/detail/qiqi/jjkdlohmmdpklemfbienpgmaljicbmae?hl=ru
+
 Simple mini blog inspired by twitter. Built with React and Redux libraries http://twithor.surge.sh/
 
 ![first](https://i.imgur.com/vykykvk.png)
